@@ -4,7 +4,7 @@ flask_cors
 requests
 openai
 dalaipy==2.0.2
-urllib3==1.26.6
+urllib3==1.26.19
 anthropic
 google-generativeai
 mistune>=2.0
