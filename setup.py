@@ -21,7 +21,7 @@ setup(
         "flask[async]",
         "flask_cors",
         "requests",
-        "urllib3==1.26.6",
+        "urllib3==1.26.19",
         "openai",
         "anthropic",
         "google-generativeai",
